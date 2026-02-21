@@ -7,7 +7,7 @@
 
 ## 🔧 Skills & Tools
 
-**Programming**: Python, JavaScript
+**Programming**: Python
 
 **Machine Learning**: Scikit-learn, TensorFlow, Pandas
 
