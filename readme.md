@@ -1,6 +1,6 @@
 # 👋 Hi there, I’m Thilakpriyan
 
-**3rd Year Computer Science Student | Machine Learning Enthusiast | Building ML models**
+**Final Year Computer Science Student | Machine Learning Enthusiast | Building ML models**
 • Numpy• Scikit-learn • Pandas •Seaborn •GitHub Actions
 
 ***
