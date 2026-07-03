@@ -1,119 +1,196 @@
-# 👋 Hi there, I'm Thilakpriyan
+<div align="center">
 
-**Final Year Computer Science Student | Machine Learning Enthusiast | Building ML models**
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667EEA,50:764BA2,100:F093FB&height=220&section=header&text=Hey%2C%20I'm%20Thilakpriyan%20%F0%9F%91%8B&fontSize=44&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=ML%20Engineer%20in%20the%20Making%20%7C%20Turning%20Data%20Into%20Decisions&descAlignY=55&descSize=17" width="100%"/>
 
-📌 NumPy • Scikit-learn • Pandas • Seaborn • GitHub Actions
+<!-- Typing Animation -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=800&color=764BA2&center=true&vCenter=true&random=false&width=650&lines=Building+End-to-End+ML+Pipelines+%F0%9F%94%A7;Learning+CNNs%2C+FNNs+%26+Neural+Nets+%F0%9F%A7%A0;Exploring+LLMs+%26+RAG+Systems+%F0%9F%93%9A;Final+Year+CS+Student+%F0%9F%8E%93;Open+to+ML+Internships+%F0%9F%9A%80)](https://git.io/typing-svg)
 
----
+<img src="https://komarev.com/ghpvc/?username=yourusername&color=764BA2&style=flat-square&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=flat-square&color=667EEA" />
+<img src="https://img.shields.io/badge/status-actively%20learning-F093FB?style=flat-square" />
 
-## 🔧 Skills & Tools
+</div>
 
-**Programming**: Python
-**Machine Learning**: Scikit-learn, TensorFlow, PyTorch, Pandas
-**Deep Learning**: CNNs, FNNs, Transformers, LLMs, RAG pipelines
-**Web Development**: FastAPI
-**Databases**: PostgreSQL
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:667EEA,100:F093FB&height=4&section=header"/>
 
----
+## 🧬 About Me
 
-## 🧠 Concepts & Architectures I Work With
+```yaml
+name: Thilakpriyan
+role: Final Year CS Student | Aspiring ML Engineer
+focus: Classical ML • Deep Learning Foundations • Data Analysis
+philosophy: "Understand the why before the how — models before mechanics."
+currently: Building a solid classical ML base before going deeper into neural nets
+fun_fact: Studies backpropagation and window functions in the same week
+```
 
-- **FNN (Feedforward Neural Networks)** — architecture design, activation functions, backpropagation
-- **CNN (Convolutional Neural Networks)** — feature extraction, image classification pipelines
-- **LLMs (Large Language Models)** — prompting, fine-tuning basics, evaluation
-- **RAG (Retrieval-Augmented Generation)** — vector search, embedding pipelines, grounding LLM outputs in external data
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+**🔭 Currently Building**
+End-to-end ML pipelines with full preprocessing → deployment flow
 
-## 🏆 Projects & Learning Journey
+**🧠 Exploring**
+CNNs • FNNs • LLMs • RAG • SQL window functions
 
-### 🔹 End-to-End Machine Learning Project
-Built a complete ML pipeline from scratch including:
-- Data cleaning & preprocessing
-- Exploratory Data Analysis (EDA)
-- Feature engineering
-- Model training & evaluation
-- Hyperparameter tuning
+</td>
+<td width="50%" valign="top">
 
-### 🔹 Data Analysis Projects
-Worked with real-world datasets to:
-- Perform EDA using Pandas & Seaborn
-- Identify patterns and trends
-- Visualize insights clearly
-- Handle missing values & outliers
-- Compare performance across models
+**💡 Mission**
+Go from experimenting with models to deploying production ML systems
 
----
+**🎯 Standard**
+Understand the reasoning behind every algorithm choice, not just the syntax
 
-## 📚 Currently Learning
+</td>
+</tr>
+</table>
 
-- Advanced Machine Learning algorithms (Ensemble methods, boosting techniques)
-- Deep Learning fundamentals (Neural Networks, Backpropagation, CNNs)
-- LLM fundamentals & RAG system design
-- Model evaluation & performance optimization
-- Feature engineering techniques
-- Building end-to-end ML projects
-- Model deployment using Flask / FastAPI
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:F093FB,100:667EEA&height=4&section=header"/>
 
----
+## 🛠️ Tech Arsenal
 
-## 🚀 Upcoming Learning Goals
+<div align="center">
 
-- Kubernetes orchestration
-- ML monitoring (Prometheus/Grafana)
-- Full production ML deployment capstone
-- Building a RAG-based application end-to-end
+**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
----
+**Data Analysis & Visualization**
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logoColor=white)
 
-## 🌐 Socials
+**Machine Learning & Deep Learning**
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 
-[LinkedIn](https://www.linkedin.com/in/thilakpriyan/)
+**AI Concepts**
+![CNN](https://img.shields.io/badge/CNN-06D6A0?style=flat-square)
+![FNN](https://img.shields.io/badge/FNN-118AB2?style=flat-square)
+![LLM](https://img.shields.io/badge/LLM-EF476F?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-FFD166?style=flat-square&logoColor=black)
 
----
+**Web & Backend**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-## 💻 Tech Stack
+**Tools & Platforms**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-21D789?style=flat-square&logo=pycharm&logoColor=black)
 
-### 👨‍💻 Programming
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+</div>
 
-### 📊 Data Analysis & Visualization
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logoColor=white)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:667EEA,100:F093FB&height=4&section=header"/>
 
-### 🧠 Machine Learning & Deep Learning
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+## 🚀 Featured Projects
 
-### 🤖 LLM / GenAI / RAG
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-005571?style=for-the-badge)
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+<h3>💬 WhatsApp Chat Analyser</h3>
 
-### 🌐 Web & Backend
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+<img src="https://img.shields.io/badge/EDA-06D6A0?style=flat-square"/> <img src="https://img.shields.io/badge/NLP-764BA2?style=flat-square"/>
 
-### 🛠️ Development Tools
-![PyCharm](https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+Analyzes exported WhatsApp chat data to surface activity trends, word frequency, and conversation patterns through clean visualizations.
 
----
+`Python` `Pandas` `Seaborn` `EDA`
+
+[![Repo](https://img.shields.io/badge/View%20Repo-667EEA?style=flat-square&logo=github&logoColor=white)](https://github.com/yourusername/Whatsapp-Chat-Analyser)
+
+</td>
+<td width="50%" valign="top">
+<h3>📰 News Topic Discovery</h3>
+
+<img src="https://img.shields.io/badge/topic--modeling-F093FB?style=flat-square"/> <img src="https://img.shields.io/badge/clustering-764BA2?style=flat-square"/>
+
+Discovers underlying topics in news articles using unsupervised learning, turning unstructured text into readable topic clusters.
+
+`Python` `Scikit-learn` `NLP` `Clustering`
+
+[![Repo](https://img.shields.io/badge/View%20Repo-F093FB?style=flat-square&logo=github&logoColor=white)](https://github.com/yourusername/News_Topic_Discovery)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🔬 End-to-End ML Pipeline</h3>
+
+<img src="https://img.shields.io/badge/full--pipeline-06D6A0?style=flat-square"/> <img src="https://img.shields.io/badge/tuning-764BA2?style=flat-square"/>
+
+Complete ML workflow from raw data to tuned model — cleaning, EDA, feature engineering, training, evaluation, and hyperparameter search.
+
+`Scikit-learn` `Pandas` `Hyperparameter Tuning`
+
+[![Repo](https://img.shields.io/badge/View%20Repo-06D6A0?style=flat-square&logo=github&logoColor=white)](https://github.com/yourusername)
+
+</td>
+<td width="50%" valign="top">
+<h3>🧪 Coming Soon: RAG Project</h3>
+
+<img src="https://img.shields.io/badge/in--progress-FFD166?style=flat-square&logoColor=black"/> <img src="https://img.shields.io/badge/LLM-764BA2?style=flat-square"/>
+
+Planning a retrieval-augmented generation project — grounding LLM responses in real documents using vector search.
+
+`LangChain` `Vector DB` `LLM`
+
+[![Repo](https://img.shields.io/badge/Coming%20Soon-FFD166?style=flat-square&logoColor=black)](#)
+
+</td>
+</tr>
+</table>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:F093FB,100:667EEA&height=4&section=header"/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+
+<br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true&bg_color=0d1117&color=764BA2&line=F093FB&point=667EEA" width="100%"/>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:667EEA,100:F093FB&height=4&section=header"/>
+
+## 🏆 What I'm Learning Right Now
+
+```python
+thilak = {
+    "solidifying":  ["Classical ML foundations", "Decision boundaries", "Regularization"],
+    "learning":     ["Deep learning basics", "CNNs", "SQL window functions"],
+    "exploring":    ["LLM fundamentals", "RAG system design"],
+    "next_up":      ["Model deployment", "Kubernetes", "ML monitoring (Prometheus/Grafana)"],
+    "ask_me_about": ["Feature engineering", "EDA", "Model evaluation"],
+}
+```
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:F093FB,100:667EEA&height=4&section=header"/>
 
 ## 🤝 Let's Connect
 
-Building ML projects publicly and learning production ML systems.
-Open to ML internships, entry-level ML Engineer roles, and collaborations.
+<div align="center">
 
----
+[![GitHub](https://img.shields.io/badge/GitHub-yourusername-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Thilakpriyan-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thilakpriyan/)
 
-## 🔝 Featured Repositories
+<br/><br/>
 
-⭐ Whatsapp-Chat-Analyser
-⭐ News_Topic_Discovery
+*"Every model starts with understanding the data, not fitting it."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667EEA,50:764BA2,100:F093FB&height=150&section=footer" width="100%"/>
+
+</div>
