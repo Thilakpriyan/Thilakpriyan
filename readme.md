@@ -6,8 +6,8 @@
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=800&color=764BA2&center=true&vCenter=true&random=false&width=650&lines=Building+End-to-End+ML+Pipelines+%F0%9F%94%A7;Learning+CNNs%2C+FNNs+%26+Neural+Nets+%F0%9F%A7%A0;Exploring+LLMs+%26+RAG+Systems+%F0%9F%93%9A;Final+Year+CS+Student+%F0%9F%8E%93;Open+to+ML+Internships+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=yourusername&color=764BA2&style=flat-square&label=PROFILE+VIEWS" />
-<img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=flat-square&color=667EEA" />
+<img src="https://komarev.com/ghpvc/?username=Thilakpriyan&color=764BA2&style=flat-square&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/github/followers/Thilakpriyan?label=Followers&style=flat-square&color=667EEA" />
 <img src="https://img.shields.io/badge/status-actively%20learning-F093FB?style=flat-square" />
 
 </div>
@@ -101,7 +101,7 @@ Analyzes exported WhatsApp chat data to surface activity trends, word frequency,
 
 `Python` `Pandas` `Seaborn` `EDA`
 
-[![Repo](https://img.shields.io/badge/View%20Repo-667EEA?style=flat-square&logo=github&logoColor=white)](https://github.com/yourusername/Whatsapp-Chat-Analyser)
+[![Repo](https://img.shields.io/badge/View%20Repo-667EEA?style=flat-square&logo=github&logoColor=white)](https://github.com/Thilakpriyan/Whatsapp-Chat-Analyser)
 
 </td>
 <td width="50%" valign="top">
@@ -113,7 +113,7 @@ Discovers underlying topics in news articles using unsupervised learning, turnin
 
 `Python` `Scikit-learn` `NLP` `Clustering`
 
-[![Repo](https://img.shields.io/badge/View%20Repo-F093FB?style=flat-square&logo=github&logoColor=white)](https://github.com/yourusername/News_Topic_Discovery)
+[![Repo](https://img.shields.io/badge/View%20Repo-F093FB?style=flat-square&logo=github&logoColor=white)](https://github.com/Thilakpriyan/News_Topic_Discovery)
 
 </td>
 </tr>
