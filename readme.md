@@ -151,16 +151,16 @@ Planning a retrieval-augmented generation project — grounding LLM responses in
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Thilakpriyan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thilakpriyan&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Thilakpriyan&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true&bg_color=0d1117&color=764BA2&line=F093FB&point=667EEA" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Thilakpriyan&theme=react-dark&hide_border=true&bg_color=0d1117&color=764BA2&line=F093FB&point=667EEA" width="100%"/>
 
 </div>
 
@@ -184,7 +184,7 @@ thilak = {
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-yourusername-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yourusername)
+[![GitHub](https://img.shields.io/badge/GitHub-Thilakpriyan-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Thilakpriyan)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Thilakpriyan-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thilakpriyan/)
 
 <br/><br/>
